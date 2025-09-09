@@ -1,7 +1,7 @@
 # Hi there 👋, I'm Shiny Phoenix
 
 💫 **About Me**  
-I am a fourth-year Computer Engineering student at BMS Institute Of Technology and Management, specializing in Artificial Intelligence and Machine Learning. I am passionate about coding, building robust applications, and exploring emerging technologies such as Deep Learning and full-stack development.
+I am a fourth-year AI&ML Engineering student at BMS Institute Of Technology and Management, specializing in Artificial Intelligence and Machine Learning. I am passionate about coding, building robust applications, and exploring emerging technologies such as Deep Learning and full-stack development.
 
 ---
 
